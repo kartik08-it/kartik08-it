@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Kartik Gaur
 
-### 🚀 Full-Stack Developer | Laravel · React · Node.js | On my way to becoming an AI Developer
+### 🚀 Full-Stack Developer | Laravel · React · Python | On my way to becoming an AI Developer
 
 ## 💫 About Me
 👨‍💻 Full-stack developer with **3+ years of experience** building scalable, secure **SaaS products** across **EdTech, HR-Tech, and CRM** domains  
-🔭 Currently working with **Laravel (HMVC), Node.js, NestJS, and React** to build production-ready applications  
+🔭 Currently working with **Laravel (MVC), PHP, Python, FastAPI and React** to build production-ready applications  
 🏗️ Experienced in **online exam and proctoring platforms, HRMS, CRM, and SuperAdmin panels**, including **real-time systems using WebRTC and WebSockets**  
 🔐 Hands-on with **RBAC, Two-Factor Authentication, REST APIs, and MySQL query optimization**  
 🤖 **On my way to becoming an AI Developer**, exploring how GenAI can power real-world products  
@@ -41,8 +41,8 @@
 ### 🧠 Backend
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![](https://img.shields.io/badge/-339933.svg?style=for-the-badge&logo=&logoColor=white)
+![](https://img.shields.io/badge/-E0234E.svg?style=for-the-badge&logo=&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
